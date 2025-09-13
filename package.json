@@ -1,0 +1,22 @@
+{
+  "name": "zbot-tele",
+  "version": "1.0.0",
+  "description": "bot telegram from zarick",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "zbot",
+    "telegram",
+    "bot"
+  ],
+  "author": "zarick",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
